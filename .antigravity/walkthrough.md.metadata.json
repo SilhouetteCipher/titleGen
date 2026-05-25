@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_WALKTHROUGH",
+  "summary": "Walkthrough documentation for the MotionTitle generator. Summarizes the system, file assets, operational steps, FCP workflows (PNG Sequences, green-screen chroma overlays, and transparent formats), and verify results from our successful Vite build.",
+  "updatedAt": "2026-05-25T08:29:15.910342Z"
+}
